@@ -1436,9 +1436,9 @@
     - TailwindCSS
   made_by: DevTrust Consulting team
   made_by_url: https://www.devtrust.cv/
-- title: Web3xplorer
-  url: https://www.web3xplorer.com/
-  description: A curated web3 directory of apps and tools
+- title: Ethereum Ecosystem
+  url: https://www.ethereum-ecosystem.com/
+  description: Unofficial Ecosystem page for Ethereum and its Layer 2s featuring 900+ dApps and tools across Optimism, Base, Starknet and more.
   categories:
     - Catalogue
     - Blog
